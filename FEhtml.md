@@ -1,6 +1,6 @@
 #  Web前端俱乐部
 
-关注我的微信公众号（扫描下面的二维码或搜索 wushengzhekou）.
+关注我的微信公众号（扫描下面的二维码或搜索 wushengzhekou）  
 
 ![烟雨风飘渺](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3220043968&token=405050086&style=1)  
 
