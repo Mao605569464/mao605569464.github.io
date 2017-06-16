@@ -24,7 +24,8 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
   -  HTML 文档也被称为**网页**  
   
 ##  这里我也给大家分享了一些自己录制的教程和自己写的一些学习资料  
->    链接：http://pan.baidu.com/s/1dERvlaL 密码：2yq6  
+链接：http://pan.baidu.com/s/1dERvlaL 密码：2yq6  
+
 如果有问题也可以到QQ群咨询我  
 
 [加入QQ](http://shang.qq.com/wpa/qunwpa?idkey=7778213778b4e241a0f361e0339e91195c30ea9bff36fa9e040be091b0f3ecd0)
