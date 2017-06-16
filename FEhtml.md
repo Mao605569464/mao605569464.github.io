@@ -6,5 +6,5 @@ HTML 不是一种编程语言，而是一种标记语言 (markup language)
 HTML 使用标记标签来描述网页  
 
 ###  HTML 标签  
-HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
-* HTML 标签是由**尖括号**包围的关键词，比如 <html>  
+HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
++ HTML 标签是由**尖括号**包围的关键词，比如<p>&lt;html&gt;</p>  
