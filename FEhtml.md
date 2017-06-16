@@ -2,7 +2,7 @@
 
 关注我的微信公众号（扫描下面的二维码或搜索 wushengzhekou）  
 
-![烟雨风飘渺](https://mail.qq.com/cgi-bin/viewfile?f=BB7A4FFD0D33BF58844A85F8132175CF3ED92EB9AAFBFEC6225A2EE8928DDD4FC345B377B4A8697E261E1D0C2422EFD49A3DCED905BA5AA4BF4719432FE6B8427EE6FCE7634FE995E95B1DDDF5C43E8F8C9DDA49E0A0B505AFC23189BE966DCB&mailid=ZC0223-vARpoeAmqLAeNhJKDmiYN72&sid=jDTbaypf8_uoHjpj&net=3413538826)
+![烟雨风飘渺](http://www.1990tu.com/i/20170616142631qqx.jpeg)
 
 ###  什么是 HTML？  
 HTML 是用来描述网页的一种语言。  
@@ -26,6 +26,6 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
 ##  这里我也给大家分享了一些自己录制的教程和自己写的一些学习资料  
 >    链接：http://pan.baidu.com/s/1dERvlaL 密码：2yq6  
 如果有问题也可以到QQ群咨询我  
-[link](http://shang.qq.com/wpa/qunwpa?idkey=7778213778b4e241a0f361e0339e91195c30ea9bff36fa9e040be091b0f3ecd0)
+[加入QQ](http://shang.qq.com/wpa/qunwpa?idkey=7778213778b4e241a0f361e0339e91195c30ea9bff36fa9e040be091b0f3ecd0)
 
 也可以关注微信公众号问我，我都会知无不言言无不尽的。
