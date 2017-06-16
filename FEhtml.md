@@ -2,7 +2,7 @@
 
 关注我的微信公众号（扫描下面的二维码或搜索 wushengzhekou）  
 
-![烟雨风飘渺](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3220043968&token=405050086&style=1)  
+![烟雨风飘渺](https://mmbiz.qlogo.cn/mmbiz_png/m4AoHibicE9ctiaMc8WKzXWaT9ekBHByLeia8oq7oUVv49eYDF6IGVdOl9AWCjD7ib3DrQSicSABB5TZFwCiaTUOFrdkA/0?wx_fmt=png)
 
 ###  什么是 HTML？  
 HTML 是用来描述网页的一种语言。  
