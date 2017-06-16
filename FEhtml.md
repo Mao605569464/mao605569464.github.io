@@ -28,6 +28,6 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
 
 如果有问题也可以到QQ群咨询我  
 
-[加入QQ](http://shang.qq.com/wpa/qunwpa?idkey=7778213778b4e241a0f361e0339e91195c30ea9bff36fa9e040be091b0f3ecd0)
+[加入QQ群](http://shang.qq.com/wpa/qunwpa?idkey=7778213778b4e241a0f361e0339e91195c30ea9bff36fa9e040be091b0f3ecd0)
 
 也可以关注微信公众号问我，我都会知无不言言无不尽的。
