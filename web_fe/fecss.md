@@ -6,9 +6,9 @@
 
 ###  1. CSS的语法:  
 *  CSS的定义是由三个部分构成:  
-*    选择符(selector)，  
-*    属性(properties)  
-*    属性的取值(value)。  
+  *  选择符(selector)，  
+  *  属性(properties)  
+  *  属性的取值(value)。  
       
 #####  语法:  
 ```html
