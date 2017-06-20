@@ -1,8 +1,9 @@
 #  Web前端俱乐部
-
 关注我的微信公众号（扫描下面的二维码或搜索 wushengzhekou）  
-
 ![烟雨风飘渺](http://www.1990tu.com/i/20170616142631qqx.jpeg)
+
+    *   [CSS的语法](#CSS的语法)
+        *   [CSS的定义是由三个部分构成:](#CSS的定义是由三个部分构成:)
 
 ###   CSS的语法:  
 *   CSS的定义是由三个部分构成:  
@@ -33,8 +34,13 @@
  p {font-family: "sans serif"}  
  (定义段落字体为sans serif)
 ```
-
-  
+如果需要对一个选择符指定多个属性时，   
+我们使用分号将所有的属性和值分开:   
+```css 
+　例子:  
+ p {text-align: center; color: red}  
+ (段落居中排列;并且段落中的文字为红色)  
+ ```
 ##  这里我也给大家分享了一些自己录制的教程和自己写的一些学习资料  
 链接：http://pan.baidu.com/s/1dERvlaL 密码：2yq6  
 
