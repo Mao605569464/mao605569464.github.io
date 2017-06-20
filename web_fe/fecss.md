@@ -19,8 +19,8 @@
 　　属性和值要用冒号隔开:  
 　　
 ```css
- 　例子:  
-　body {color: black}， 
+ 　//例子:  
+   body {color: black}， 
 ```
    此例的效果是使页面中的文字为黑色。   
    如果属性的值是多个单词组成，  
@@ -35,27 +35,27 @@
    我们使用分号将所有的属性和值分开:   
 
 ```css
-例子:  
- p {text-align: center; color: red}  
- (段落居中排列;并且段落中的文字为红色)  
+   //例子:  
+   p {text-align: center; color: red}  
+   //(段落居中排列;并且段落中的文字为红色)  
  ```
 ####  选择符组
 　　你可以把相同属性和值的选择符组合起来书写，   
     用逗号将选择符分开，这样可以减少样式重复定义:   
 ```css
-h1, h2, h3, h4, h5, h6 { color: green }    ·
+   h1, h2, h3, h4, h5, h6 { color: green }    ·
 ```
    (这个组里包括所有的标题元素，每个标题元素的文字都为绿色)  
 ```css
- p, table{ font-size: 9pt }  
+   p, table{ font-size: 9pt }  
  ```
 
   (段落和表格里的文字尺寸为9号字)     
   效果完全等效于:  
 
 ```css
-p { font-size: 9pt }
-table { font-size: 9pt }
+   p { font-size: 9pt }
+   table { font-size: 9pt }
 ```
 ####  类选择符   
 　　用类选择符你能够把相同的元素分类定义不同的样式，   
