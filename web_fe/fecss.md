@@ -30,9 +30,9 @@
 　例子:  
  p {font-family: "sans serif"}  
  (定义段落字体为sans serif)
-```
+```  
     如果需要对一个选择符指定多个属性时，    
-    我们使用分号将所有的属性和值分开:    
+    我们使用分号将所有的属性和值分开:      
 ```css 
 　例子:  
  p {text-align: center; color: red}  
