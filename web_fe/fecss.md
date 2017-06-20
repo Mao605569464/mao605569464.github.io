@@ -4,7 +4,7 @@
 
 ![烟雨风飘渺](http://www.1990tu.com/i/20170616142631qqx.jpeg)
 
-###  1. CSS的语法:  
+###   CSS的语法:  
 *   CSS的定义是由三个部分构成:  
     *  选择符(selector)，  
     *  属性(properties)  
@@ -21,7 +21,7 @@
 　　你可以通过此方法定义它的属性和值，  
 　　属性和值要用冒号隔开:  
 　　
-```html
+```css
  　//例子:  
 　body {color: black}， 
  
